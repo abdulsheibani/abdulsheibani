@@ -1,10 +1,10 @@
-# Hey, I'm Abdul
+# Hey, I'm Abdul!
 
-Data Science & Management, Universidade Europeia. Based in Lisbon, Portugal.
+Data Science & Management at Universidade Europeia. Based in Lisbon, Portugal.
 
-Currently building **Seisin**, a desktop app that turns a job search into structured data instead of a spreadsheet. Every application gets logged as a real record with a status, a timeline, and a source, and those records feed an analytics layer that surfaces what a spreadsheet never shows: how your pace changes week to week, where in the pipeline applications actually drop off, and which channels are converting versus just generating volume. It runs entirely on local storage, so there's no account and no server involved, and it's still actively evolving as I add more of the analysis I wish I'd had while job hunting.
+Currently building *Seisin*, a desktop app that turns a job search into structured data instead of a spreadsheet. Every application gets logged as a real record with a status, a timeline, and a source, and those records feed an analytics layer that surfaces what a spreadsheet never shows: how your pace changes week to week, where in the pipeline applications actually drop off, and which channels are converting versus just generating volume. It runs entirely on local storage, so there's no account and no server involved, and it's still actively evolving as I add more of the analysis I wish I'd had while job hunting.
 
-I'm generally drawn to the data analytics side of things: taking a raw, messy dataset and turning it into something that explains itself. That interest runs through my degree and into most of what I build.
+I'm interested in data analytics, particularly the process of transforming raw datasets into meaningful insights through data cleaning, statistical analysis, and visualization. Most of what I build sits somewhere around data, software, and the systems that connect them.
 
 ## Seisin
 
