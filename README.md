@@ -2,22 +2,24 @@
 
 Data Science & Management, Universidade Europeia
 
-Currently building **Seisin**, a desktop app that turns a job search into structured data instead of a spreadsheet: local storage, an analytics layer on top of it, and a UI for working the pipeline day to day.
+Currently building **Seisin**, a desktop app that turns a job search into structured data instead of a spreadsheet. Every application gets logged as a real record with a status, a timeline, and a source, and those records feed an analytics layer that surfaces what a spreadsheet never shows: how your pace changes week to week, where in the pipeline applications actually drop off, and which channels are converting versus just generating volume. It runs entirely on local storage, so there's no account and no server involved, and it's still actively evolving as I add more of the analysis I wish I'd had while job hunting.
+
+I'm generally drawn to the data analytics side of things: taking a raw, messy dataset and turning it into something that explains itself. That interest runs through my degree and into most of what I build, whether that's a dashboard, a backtest, or a scraper feeding a pipeline.
 
 ## Seisin
 
 **[getseisin.com](https://getseisin.com)**
 
-Tracks every application, interview, and offer, then computes analytics on top: pace, pipeline health, a conversion funnel, and response rate by source. No account, no server, all local.
+Tracks every application, interview, and offer, then computes analytics on top: pace, pipeline health, a conversion funnel, and response rate by source. No account, no server, all local. More detail below, and more is being added as the app matures.
 
 | Area | What it does |
 | --- | --- |
-| Pipeline | Planned, Applied, Assessment, Interview, Offer, Rejected, tracked per application |
-| Analytics | Applications over time, weekly pace, conversion funnel, response time, response rate by source |
-| Map | World map of where you're applying, click-to-zoom |
-| Offers | Side-by-side offer comparison |
-| Interviews | Rounds, contacts, research notes, prep checklist |
-| Data | Resume storage, CSV/Excel import and export, light/dark/midnight themes, privacy mode |
+| Pipeline | Every application tracked through Planned, Applied, Assessment, Interview, Offer, and Rejected, with full history per record |
+| Analytics | Applications over time, weekly pace, a conversion funnel stage by stage, response time, and response rate broken down by source |
+| Map | World map of where you're applying, with click-to-zoom by region |
+| Offers | Side-by-side offer comparison to weigh multiple offers against each other |
+| Interviews | Interview rounds, contacts, research notes, and a prep checklist per company |
+| Data | Resume storage, CSV/Excel import and export, light/dark/midnight themes, and a privacy mode that blurs sensitive fields |
 
 Free, no account required. Electron desktop app, React/TypeScript frontend, Python/FastAPI backend.
 
