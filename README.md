@@ -21,7 +21,7 @@ Tracks every application, interview, and offer, then computes analytics on top: 
 | Interviews | Interview rounds, contacts, research notes, and a prep checklist per company |
 | Data | Resume storage, CSV/Excel import and export, light/dark/midnight themes, and a privacy mode that blurs sensitive fields |
 
-Free, no account required. Electron desktop app, React/TypeScript frontend, Python/FastAPI backend.
+Free, no account required.
 
 ## Stack
 
