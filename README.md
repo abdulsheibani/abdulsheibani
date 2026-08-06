@@ -1,4 +1,4 @@
-# Hey, I'm Abdelrahman
+# Hey, I'm Abdul
 
 Data Science & Management, Universidade Europeia. Based in Lisbon, Portugal.
 
