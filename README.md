@@ -1,32 +1,35 @@
-# Hey, I'm Abdelrahman (most people call me Abdul)
+# Hey, I'm Abdelrahman
 
-I'm studying a Bachelor's in Data Science and Management at Universidade Europeia. Right now I'm mostly heads-down building **Seisin**.
+Data Science & Management, Universidade Europeia
 
-I like taking a product from a rough idea all the way to something people actually use, the interface, the backend, the data behind it, and the small details in between. Job hunting is the thing I know best right now, so it's the problem I started with.
+Currently building **Seisin**, a desktop app that turns a job search into structured data instead of a spreadsheet: local storage, an analytics layer on top of it, and a UI for working the pipeline day to day.
 
 ## Seisin
 
 **[getseisin.com](https://getseisin.com)** and **[GitHub](https://github.com/abdulsheibani/seisin)**
 
-A desktop job-search tracker: every application, interview, and offer in one place, turned into analytics automatically. Instead of a spreadsheet that just records the search, Seisin reads the patterns back to you: pace, pipeline health, a conversion funnel, and response rate by source.
+Tracks every application, interview, and offer, then computes analytics on top: pace, pipeline health, a conversion funnel, and response rate by source. No account, no server, all local.
 
 | Area | What it does |
 | --- | --- |
-| Pipeline | Tracks every application through Planned, Applied, Assessment, Interview, Offer, and Rejected |
-| Analytics | Applications over time, weekly pace, conversion funnel, response time, and response rate by source |
-| Map | World map of where you're applying, with click-to-zoom |
-| Offers | Side-by-side offer comparison view |
-| Interviews | Rounds, contacts, research notes, and a prep checklist |
-| Data | Resume storage, CSV and Excel import/export, light/dark/midnight themes, privacy mode for screen sharing |
+| Pipeline | Planned, Applied, Assessment, Interview, Offer, Rejected, tracked per application |
+| Analytics | Applications over time, weekly pace, conversion funnel, response time, response rate by source |
+| Map | World map of where you're applying, click-to-zoom |
+| Offers | Side-by-side offer comparison |
+| Interviews | Rounds, contacts, research notes, prep checklist |
+| Data | Resume storage, CSV/Excel import and export, light/dark/midnight themes, privacy mode |
 
-Free, no account required.
-
-Built with Electron, a React/TypeScript frontend, and a Python/FastAPI backend.
+Free, no account required. Electron desktop app, React/TypeScript frontend, Python/FastAPI backend.
 
 ## Stack
 
-🟦 TypeScript &nbsp; ⚛️ React &nbsp; ⚡ Electron &nbsp; 🐍 Python &nbsp; 🚀 FastAPI
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-📇 [LinkedIn](https://linkedin.com/in/abdelrahmansheibani) &nbsp; ✉️ abdusheibani@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmansheibani)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdusheibani@gmail.com)
